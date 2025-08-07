@@ -21,7 +21,10 @@ class PosePreviewScreen extends StatelessWidget {
         elevation: 2,
           backgroundColor: Colors.blue,
           title: const Text(
-              "Yoga Session Preview"
+              "Yoga Session Preview",
+            style: TextStyle(
+              color: Colors.white
+            ),
           ),
         centerTitle: true,
       ),
