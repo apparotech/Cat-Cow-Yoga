@@ -120,6 +120,14 @@ flutter run
 
 ---
 
+
+
+| Pose Preview                             | In-Session                            | Session                                |
+|------------------------------------------|---------------------------------------|----------------------------------------|
+| ![preview](screenshots/pose_preview.png) | ![session](screenshots/session_1.png) | ![pause](screenshots/session_pause.png) |
+
+
+> All assets are locally stored and loaded via the asset bundle.
 ## 📧 Contact
 For any questions or feedback: `7061rajaryan@gmail.com`
 
